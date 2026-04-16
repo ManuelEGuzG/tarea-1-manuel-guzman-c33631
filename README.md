@@ -1,8 +1,8 @@
 # Tarea 1 - Clon de Sección de Sitio Web
 
-**Estudiante:** Manuel Guzmán C.
+**Estudiante:** Manuel Guzmán G.
 
-**Curso:** Desarrollo Web — HTML & CSS
+**Curso:** Multimedios — HTML & CSS
 
 ## Sitio clonado
 
